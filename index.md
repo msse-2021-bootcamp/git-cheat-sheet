@@ -76,4 +76,4 @@ Logo" height="100"/></div>
 | working tree | All files and changes not yet added to the staging area.     |
 
 ## Credits
-This cheat sheet was created by @janash, @joaorodrigues, and @vhchavez and is licensed under CC BY-SA 4.0.
+This cheat sheet was created by @janash, @joaorodrigues, and @vhchavez and is licensed under CC BY-SA 4.0. 
