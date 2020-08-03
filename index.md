@@ -9,12 +9,12 @@ Logo" height="100"/></div>
 
 ## Git Configuration
 
-| Command                                      | Description                                   |
-| -------------------------------------------- | --------------------------------------------- |
-| `git config --global user.name "Your Name"`  | Sets the author name for all future commits.  |
-| `git config --global user.email "mole@cool"` | Sets the author email for all future commits. |
-| `git config --global core.editor "nano"`     | Sets the default Git text editor to nano      |
-| `git config --list`                          | Lists all current configuration settings.     |
+| Command                                      		 | Description                                   |
+| ------------------------------------------------------ | --------------------------------------------- |
+| `git config --global user.name "Your Name"`  		 | Sets the author name for all future commits.  |
+| `git config --global user.email "hello@something.com"` | Sets the author email for all future commits. |
+| `git config --global core.editor "nano"`     		 | Sets the default Git text editor to nano      |
+| `git config --list`                          		 | Lists all current configuration settings.     |
 
 ## Essential Git
 
@@ -38,8 +38,8 @@ Logo" height="100"/></div>
 | ------------------------ | ------------------------------------------------------------ |
 | `git branch`             | Lists existing branches.                                     |
 | `git branch BRANCH`      | Creates a new branch BRANCH from the current HEAD.           |
-| `git checkout BRANCH`    | Switches to the specified branch.                            |
-| `git checkout -b BRANCH` | Creates a new branch and switches to it from the current HEAD. |
+| `git switch BRANCH`      | Switches to the specified branch.                            |
+| `git switch -c BRANCH`   | Creates a new branch and switches to it from the current HEAD. |
 | `git merge BRANCH`       | Merges commits of BRANCH onto the history of the current branch. |
 | `git branch -D BRANCH`   | Deletes branch BRANCH and its associated history.            |
 
