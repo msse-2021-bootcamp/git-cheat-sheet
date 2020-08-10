@@ -1,6 +1,6 @@
 <div style="text-align: center;"><img 
-src="https://raw.githubusercontent.com/MolSSI/molssi-branding-guidelines/master/logos/main_logo/molssi_main_logo.png" alt="MolSSI Logo" title="MolSSI 
-Logo" height="100"/></div> 
+src="https://raw.githubusercontent.com/msse-2020-bootcamp/template-blog/master/images/msse-logo.png" alt="MSSE Logo" title="MSSE 
+Logo" height="200"/></div> 
 
 <div style="text-align: center; margin-bottom: 1em">
 	<h1 style='margin: 0; padding: 0; border-bottom: none'>Git Cheat Sheet</h1>
