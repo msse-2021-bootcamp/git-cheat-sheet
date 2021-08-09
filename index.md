@@ -30,7 +30,7 @@ Logo" height="200"/></div>
 | `git diff --cached`       | Shows differences in files  between staging area and HEAD.   |
 | `git diff COMMIT_ID`      | Show differences in files between HEAD and a specific commit. |
 | `git checkout COMMIT_ID`  | Temporarily reverts the repository to the state of a specific commit. |
-| `git checkout master`     | Restores working tree when in DETACHED HEAD state.           |
+| `git checkout main`       | Restores working tree when in DETACHED HEAD state.           |
 
 ## Git Branches
 
